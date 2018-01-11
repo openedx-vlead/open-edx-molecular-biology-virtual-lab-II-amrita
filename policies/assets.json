@@ -3,21 +3,21 @@
         "contentType": "image/jpeg", 
         "content_son": {
             "category": "asset", 
-            "course": "MBVII-AU", 
+            "course": "biotech30", 
             "name": "molecularbiology.jpg", 
-            "org": "Amrita-University", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "molecularbiology.jpg", 
-        "filename": "asset-v1:Amrita-University+MBVII-AU+Anytime+type@asset+block@molecularbiology.jpg", 
+        "filename": "asset-v1:Virtual-Labs+biotech30+Anytime+type@asset+block@molecularbiology.jpg", 
         "import_path": "molecularbiology.jpg", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
-            "Amrita-University", 
-            "MBVII-AU", 
+            "Virtual-Labs", 
+            "biotech30", 
             "thumbnail", 
             "molecularbiology.jpg", 
             null
